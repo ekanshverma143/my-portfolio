@@ -1,6 +1,7 @@
 {
-  "name": "ekanshportfolio",
+  "name": "ekanshverma143.github.io",
   "version": "0.1.0",
+  "homepage" : "https://ekanshverma143.github.io/ekanshverma143.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -11,7 +12,6 @@
     "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.3",
-    "homepage" : "https://ekanshverma143.github.io/ekanshverma143.github.io",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
     "react-router-dom": "^6.10.0",
