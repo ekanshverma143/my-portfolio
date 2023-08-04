@@ -15,7 +15,7 @@ function Home() {
       <Container>
         <Row>
           <Col md={7}>
-            <h2 className='headtext'>Hello <span className='wave'>👋 </span></h2>
+            <h2 className='headtext'>Hey There !<span className='wave'>👋 </span></h2>
             <h2 className='nametext'>I'm Ekansh Verma</h2>
             <span></span>
             <Text />
@@ -45,7 +45,7 @@ function Home() {
         <hr className='line' />
         <p className='copyright'>© Copyright 2023.
         <br /> 
-        Designed & Built by <span>Ekansh Verma</span></p>
+        Designed <span>Ekansh Verma</span></p>
       </Container>
     </div>
   )

@@ -25,7 +25,7 @@ function Aboutpage() {
                                     <li>Adobe Illustrator</li>
                                     <li>Adobe Photoshop</li>
                                     <li>Figma</li>
-                                    <li>Python</li>
+                                    <li>Express.js</li>
                                     <li>Git/Github</li>
                                 </Col>
                             </Row>

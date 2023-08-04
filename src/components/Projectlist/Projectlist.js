@@ -40,7 +40,7 @@ function Projectlist() {
               <ProjectCard
                 imgPath={netfliximage}
                 isBlog={false}
-                title="Netflix-Clone"
+                title="Netflix-Clone(Notflix)"
                 description="This project is a simplified front-end clone of Netflix. It was created with React js. It uses TMDB (The Movie Data Base ) API and uses the Axios tool. Users can click movie images with embedded YouTube trailers or related videos about the movie."
                 ghLink="https://"
               />

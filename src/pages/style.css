@@ -140,9 +140,9 @@
   background-color: #4158d0;
   background-image: linear-gradient(
     43deg,
-    #4158d0 0%,
-    #c850c0 46%,
-    #ffcc70 100%
+    #536df0 0%,
+    #a70b9a 46%,
+    #f8c613 100%
   );
 }
 .row {
@@ -208,9 +208,9 @@
 }
 .imagedeveloper {
   margin-top: 50px;
-  max-width: 550px;
-  height: 400px;
-  background-image: url(../Assets/Web-designer-1024x821.webp);
+  max-width: 440px;
+  height: 450px;
+  background-image: url(../Assets/profile.webp);
   background-size: cover;
   background-position: center;
 }
@@ -271,9 +271,9 @@
   background-color: #4158d0;
   background-image: linear-gradient(
     43deg,
-    #4158d0 0%,
-    #c850c0 46%,
-    #ffcc70 100%
+    #536df0 0%,
+    #a70b9a 46%,
+    #f8c613 100%
   );
   padding-top: 110px;
 }
