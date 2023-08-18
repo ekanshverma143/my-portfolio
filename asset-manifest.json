@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.74396d93.css",
-    "main.js": "/static/js/main.6266a4f7.js",
+    "main.js": "/static/js/main.69067c62.js",
     "static/media/Charlestown-Pizza.png": "/static/media/Charlestown-Pizza.b014158f9b26c5b5b0e9.png",
     "static/media/Gridlinesbuilders.png": "/static/media/Gridlinesbuilders.b1ae9a07030baae69f63.png",
     "static/media/olx-clone image.png": "/static/media/olx-clone image.887047ffbf12c447e947.png",
@@ -14,10 +14,10 @@
     "static/media/bars.svg": "/static/media/bars.a2e35dd5aede7934d82e.svg",
     "index.html": "/index.html",
     "main.74396d93.css.map": "/static/css/main.74396d93.css.map",
-    "main.6266a4f7.js.map": "/static/js/main.6266a4f7.js.map"
+    "main.69067c62.js.map": "/static/js/main.69067c62.js.map"
   },
   "entrypoints": [
     "static/css/main.74396d93.css",
-    "static/js/main.6266a4f7.js"
+    "static/js/main.69067c62.js"
   ]
 }
