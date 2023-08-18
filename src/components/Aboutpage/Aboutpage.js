@@ -20,6 +20,7 @@ function Aboutpage() {
                                     <li>JavaScript</li>
                                     <li>React JS</li>
                                     <li>Bootsrap 5</li>
+                                    <li>MongoDB</li>
                                 </Col>
                                 <Col md={5}>
                                     <li>Adobe Illustrator</li>

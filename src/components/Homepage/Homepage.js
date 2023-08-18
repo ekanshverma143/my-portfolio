@@ -43,9 +43,9 @@ function Home() {
           </Col>
         </Row>
         <hr className='line' />
-        <p className='copyright'>© Copyright 2023.
-        <br /> 
-        Designed <span>Ekansh Verma</span></p>
+        <p className='copyright'>
+       
+        Designed by <span>Ekansh Verma</span></p>
       </Container>
     </div>
   )
